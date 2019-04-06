@@ -9,3 +9,14 @@ C:\Users\a1055490\Desktop\CSharpDBAdvanced\ExamPrep2\SoftJailExam\SoftJail\obj\D
 C:\Users\a1055490\Desktop\CSharpDBAdvanced\ExamPrep2\SoftJailExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
 C:\Users\a1055490\Desktop\CSharpDBAdvanced\ExamPrep2\SoftJailExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
 C:\Users\a1055490\Desktop\CSharpDBAdvanced\ExamPrep2\SoftJailExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\stkon\OneDrive\Desktop\CSharpDBFundamentals\CSharpDBAdvanced\ExamPrep1\SoftJailTest\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache

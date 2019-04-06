@@ -30,13 +30,13 @@ namespace SoftJail.Data.Models
         [Required]
         public DateTime IncarcerationDate { get; set; }
 
-        public DateTime ReleaseDate { get; set; }
+        public DateTime? ReleaseDate { get; set; }
 
         [Range(typeof(decimal), "0", "79228162514264337593543950335")]
-        public decimal Bail { get; set; }
+        public decimal? Bail { get; set; }
 
         [ForeignKey("Cell")]
-        public int CellId { get; set; }
+        public int? CellId { get; set; }
         public Cell Cell { get; set; }
 
         public ICollection<Mail> Mails { get; set; }
